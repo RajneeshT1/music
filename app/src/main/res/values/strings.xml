@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">services</string>
+    <string name="play">play</string>
+    <string name="pause">pause</string>
+    <string name="stop">stop</string>
+    <string name="image">image</string>
+    <string name="resume">resume</string>
+
+</resources>
